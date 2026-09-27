@@ -9,12 +9,12 @@ Traditional degree verification relies on centralized databases, paper transcrip
 ChainCred provides a streamlined, trustworthy credential verification experience. With off-chain SHA-256 transcript hashing, smart-contract access control, and instant public verification, it ensures zero degree fraud, complete privacy preservation, and 100% data integrity without gas fees for verifiers.
 
 🔑 Key Features
-Authorized Issuer Network – Admin-governed accreditation for educational institutions.
-Off-Chain Hashing & Privacy – Zero personal student data stored on-chain; only cryptographic SHA-256 fingerprints.
-Instant Public Verification – Read-only, 0-gas credential checks for employers & recruiters.
-Student Credential Vault – Wallet-connected dashboard for students to view & share credentials.
-Admin & Issuer Dashboards – Dedicated portals for institutional management & credential revocation.
-Modern UI/UX – Dark-themed Web3 glassmorphism design with interactive hash integrity checker.
+1. Authorized Issuer Network – Admin-governed accreditation for educational institutions.
+2. Off-Chain Hashing & Privacy – Zero personal student data stored on-chain; only cryptographic SHA-256 fingerprints.
+3. Instant Public Verification – Read-only, 0-gas credential checks for employers & recruiters.
+4. Student Credential Vault – Wallet-connected dashboard for students to view & share credentials.
+5. Admin & Issuer Dashboards – Dedicated portals for institutional management & credential revocation.
+6. Modern UI/UX – Dark-themed Web3 glassmorphism design with interactive hash integrity checker.
 
 🛠️ Tech Stack
 Frontend: Next.js 14 (App Router), React.js, Tailwind CSS
