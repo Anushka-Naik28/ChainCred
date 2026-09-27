@@ -1,0 +1,33 @@
+# dependencies
+/node_modules
+/.pnpm
+/.yarn
+
+# Next.js build artifacts
+/.next/
+/out/
+/build
+
+# Hardhat build artifacts & cache
+/artifacts
+/cache
+/typechain
+/typechain-types
+
+# Environment & secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+
+# IDEs & System files
+.DS_Store
+*.pem
+.vscode/
+.idea/
+
+# Hardhat local chain node output
+/coverage
+/coverage.json
