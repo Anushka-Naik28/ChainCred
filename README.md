@@ -31,9 +31,9 @@ Deployment: Vercel (Frontend), Hardhat / Sepolia Testnet (Smart Contracts)
 5. Universities can log in to manage, track, or revoke credentials if necessary.
 
 🔮 Future Improvements
-Multi-chain support (Polygon, Arbitrum, Optimism).
-Zero-Knowledge Proofs (ZK-SNARKs) for selective disclosure of grades & GPA.
-Decentralized Storage integration (IPFS & Arweave for encrypted metadata).
-Soulbound Tokens (SBT - ERC-5192) support for non-transferable diplomas.
+1. Multi-chain support (Polygon, Arbitrum, Optimism).
+2. Zero-Knowledge Proofs (ZK-SNARKs) for selective disclosure of grades & GPA.
+3. Decentralized Storage integration (IPFS & Arweave for encrypted metadata).
+4. Soulbound Tokens (SBT - ERC-5192) support for non-transferable diplomas.
 
 
