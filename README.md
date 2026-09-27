@@ -1,6 +1,6 @@
 🎓 ChainCred – Decentralized Academic Credential Network
 
-A sleek, modern Web3 platform designed to revolutionize academic degree verification. ChainCred merges blockchain security with off-chain cryptographic hashing, offering a tamper-evident, instant credential verification system for educational institutions, students, and employers.
+   A sleek, modern Web3 platform designed to revolutionize academic degree verification. ChainCred merges blockchain security with off-chain cryptographic hashing, offering a tamper-evident, instant credential verification system for educational institutions, students, and employers.
 
 ⚠️ The Problem
 Traditional degree verification relies on centralized databases, paper transcripts, or manual third-party background checks. Students face weeks of verification delays, physical diplomas are easily forged, university database breaches expose sensitive student data, and institutional shutdowns leave credentials unverified.
@@ -36,5 +36,4 @@ Zero-Knowledge Proofs (ZK-SNARKs) for selective disclosure of grades & GPA.
 Decentralized Storage integration (IPFS & Arweave for encrypted metadata).
 Soulbound Tokens (SBT - ERC-5192) support for non-transferable diplomas.
 
-🌐 Demo
-👉 Demo Link: [https://github.com/Anushka-Naik28/ChainCred](https://github.com/Anushka-Naik28/ChainCred)
+
